@@ -1,0 +1,12 @@
+<to jest komentarz> [to jest wartość do wpisania]
+
+
+nazwa [nazwa mapy]
+mapa [pełna ścieżka do mapy z unixowymi ścieżkami dostępu ("/")]
+kraj [nazwa] [kolorR] [kolorG] [kolorB] [ścieżka do symbolu państwa]
+koniec krajow <trzeba podać ze względy na specyfikę sposobu ładowania dyplomacji, za tym punktem nie wolno dodawać krajów!>
+region [X] [Y] [nazwa] [właściciel] [garnizon] [zyski przy 100% morale i średnich podatkach]
+droga [region 1] [region 2]
+wojna [kraj 1] [kraj 2]
+sojusz [kraj 1] [kraj 2]
+handel [kraj 1] [kraj 2]

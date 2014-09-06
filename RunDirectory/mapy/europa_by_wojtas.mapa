@@ -1,0 +1,443 @@
+ #Mapa Europy by Wojtas
+nazwa "Europa by Wojtas"
+mapa ./res/2000px-Eastern-Europe-map2.svg.png
+kraj "Dania" 255 0 0 ./res/dania.png
+kraj "Wielka Brytania" 255 255 0 ./res/wlbryt.png
+kraj "Francja" 30 144 255 ./res/francja.png
+kraj "Neutralny" 162 181 205 ./res/neutralny.png
+kraj "Niemcy" 255 140 0 ./res/niemcy.png
+kraj "Hiszpania" 238 106 80 ./res/hiszpania.png
+kraj "Portugalia" 240 255 240 ./res/portugalia.png
+kraj "Wlochy" 34 139 34 ./res/wlochy.png
+kraj "Rosja" 124 252 0 ./res/rosja.png
+kraj "Norwegia" 139 58 58 ./res/norwegia.png
+kraj "Szwecja" 16 78 139 ./res/szwecja.png
+kraj "Finlandia" 0 191 255 ./res/finlandia.png
+kraj "Polska" 255 255 255 ./res/polska.png
+kraj "Grecja" 30 144 255 ./res/grecja.png
+kraj "Turcja" 205 51 51 ./res/turcja.png
+koniec krajow
+region 175 285 "Islandia" "Dania" 4 200
+region 860 948 "Dania" "Dania" 5 200
+region 522 1150 "Anglia" "Wielka Brytania" 3 200
+region 425 840 "Szkocja" "Wielka Brytania" 9 200
+region 320 955 "Irlandia Pn" "Wielka Brytania" 6 200
+region 265 1030 "Irlandia" "Neutralny" 10 200
+region 403 1107 "Walia" "Wielka Brytania" 4 200
+region 481 1013 "York" "Wielka Brytania" 2 200
+region 505 1305 "Normandia" "Francja" 4 200
+region 376 1357 "Bretania" "Francja" 4 200
+region 836 1743 "Korsyka" "Francja" 2 200
+region 577 1386 "Francja" "Francja" 10 200
+region 721 1380 "Alzacja" "Francja" 8 200
+region 442 1548 "Akwitania" "Francja" 5 200
+region 551 1652 "Tuluza" "Francja" 4 200
+region 672 1671 "Marsylia" "Francja" 7 200
+region 662 1534 "Lyon" "Francja" 5 200
+region 662 1236 "Belgia" "Neutralny" 4 200
+region 716 1173 "Holandia" "Neutralny" 4 200
+region 948 1150 "Brandenburgia" "Niemcy" 12 200
+region 871 1097 "Hamburg" "Niemcy" 10 200
+region 807 1170 "Hanower" "Niemcy" 7 200
+region 803 1272 "Kolonia" "Niemcy" 5 200
+region 906 1359 "Bawaria" "Niemcy" 10 200
+region 939 1236 "Saksonia" "Niemcy" 6 200
+region 825 1355 "Stuttgard" "Niemcy" 5 200
+region 1011 1070 "Pomorze" "Niemcy" 6 200
+region 1033 1294 "Czechy" "Neutralny" 4 200
+region 1031 1423 "Austria" "Neutralny" 4 200
+region 909 1457 "Tyrol" "Neutralny" 3 200
+region 795 1472 "Szwajcaria" "Neutralny" 10 200
+region 1314 699 "Tallin" "Neutralny" 4 200
+region 1301 853 "Ryga" "Neutralny" 4 200
+region 1227 985 "Krolewiec" "Neutralny" 8 200
+region 1369 963 "Wilno" "Neutralny" 6 200
+region 29 1845 "Lizbona" "Portugalia" 10 200
+region 64 1718 "Porto" "Portugalia" 6 200
+region 778 1583 "Turyn" "Wlochy" 5 200
+region 864 1553 "Mediolan" "Wlochy" 12 200
+region 954 1547 "Wenecja" "Wlochy" 8 200
+region 930 1601 "Bolonia" "Wlochy" 3 200
+region 912 1650 "Florencja" "Wlochy" 2 200
+region 979 1752 "Rzym" "Wlochy" 10 200
+region 1081 1824 "Neapol" "Wlochy" 5 200
+region 1222 1833 "Tarent" "Wlochy" 2 200
+region 1130 1961 "Mesyna" "Wlochy" 3 200
+region 1116 2016 "Syrakuzy" "Wlochy" 3 200
+region 1046 1980 "Palermo" "Wlochy" 3 200
+region 832 1908 "Sardynia" "Wlochy" 2 200
+region 559 1882 "Baleary" "Hiszpania" 2 200
+region 181 1640 "Leon" "Hiszpania" 4 200
+region 528 1773 "Barcelona" "Hiszpania" 8 200
+region 390 1753 "Saragossa" "Hiszpania" 4 200
+region 361 1643 "Nawarra" "Hiszpania" 3 200
+region 403 1868 "Walencja" "Hiszpania" 5 200
+region 253 1773 "Madryt" "Hiszpania" 10 200
+region 176 1898 "Sewilla" "Hiszpania" 3 200
+region 268 2003 "Grenada" "Hiszpania" 5 200
+region 888 725 "Oslo" "Norwegia" 5 200
+region 898 517 "Trondheim" "Norwegia" 3 200
+region 1037 192 "Narwik" "Norwegia" 1 200
+region 1112 746 "Sztokholm" "Szwecja" 8 200
+region 938 815 "Goteborg" "Szwecja" 4 200
+region 1066 567 "Sundsvall" "Szwecja" 3 200
+region 1153 366 "Lulea" "Szwecja" 2 200
+region 975 983 "Malmo" "Szwecja" 5 200
+region 1292 663 "Helsinki" "Finlandia" 6 200
+region 1176 509 "Vaasa" "Finlandia" 2 200
+region 1249 385 "Oulu" "Finlandia" 1 200
+region 1175 1024 "Gdansk" "Polska" 7 200
+region 1111 1131 "Wielkopolska" "Polska" 6 200
+region 1127 1231 "Slask" "Polska" 8 200
+region 1245 1247 "Malopolska" "Polska" 10 200
+region 1242 1124 "Mazowsze" "Polska" 7 200
+region 1136 1308 "Morawy" "Neutralny" 3 200
+region 1225 1349 "Slowacja" "Neutralny" 3 200
+region 1223 1440 "Wegry" "Neutralny" 5 200
+region 1346 1139 "Brzesc" "Neutralny" 7 200
+region 1459 998 "Bialorus" "Neutralny" 3 200
+region 1387 1262 "Galicja" "Neutralny" 5 200
+region 1622 1184 "Ukraina" "Neutralny" 7 200
+region 1706 1359 "Odessa" "Neutralny" 5 200
+region 1842 1401 "Krym" "Neutralny" 7 200
+region 1864 1202 "Zaporoze" "Neutralny" 3 200
+region 1597 1364 "Moldawia" "Neutralny" 4 200
+region 1476 895 "Polock" "Neutralny" 5 200
+region 1340 124 "Murmansk" "Rosja" 3 200
+region 1453 636 "Petersburg" "Rosja" 10 200
+region 1613 271 "Archangielsk" "Rosja" 2 200
+region 1641 881 "Smolensk" "Rosja" 8 200
+region 1713 980 "Briansk" "Rosja" 4 200
+region 1934 910 "Woronez" "Rosja" 3 200
+region 1809 1032 "Kursk" "Rosja" 3 200
+region 1444 768 "Pskow" "Rosja" 3 200
+region 1832 739 "Moskwa" "Rosja" 9 200
+region 1820 845 "Tula" "Rosja" 2 200
+region 1915 565 "Jaroslaw" "Rosja" 3 200
+region 1517 437 "Pietrozawodsk" "Rosja" 3 200
+region 1547 698 "Nowogrod" "Rosja" 3 200
+region 1695 1696 "Istambul" "Turcja" 13 200
+region 1647 1868 "Izmir" "Turcja" 5 200
+region 1716 1752 "Bursa" "Turcja" 8 200
+region 1824 1913 "Antalaya" "Turcja" 5 200
+region 1439 1784 "Saloniki" "Grecja" 6 200
+region 1490 1920 "Ateny" "Grecja" 10 200
+region 1367 1884 "Arta" "Grecja" 4 200
+region 1450 1987 "Sparta" "Grecja" 6 200
+region 1582 2063 "Iraklion" "Grecja" 3 200
+region 1083 2101 "Malta" "Neutralny" 2 200
+region 881 2052 "Tunis" "Neutralny" 2 200
+region 1287 1750 "Durres" "Neutralny" 2 200
+region 1083 1565 "Chorwacja" "Neutralny" 4 200
+region 1212 1591 "Sarajewo" "Neutralny" 3 200
+region 1311 1562 "Belgrad" "Neutralny" 5 200
+region 1546 1509 "Bukareszt" "Neutralny" 3 200
+region 1456 1658 "Sofia" "Neutralny" 2 200
+region 1427 1438 "Transylwania" "Neutralny" 3 200
+region 138 2016 "Gibraltar" "Wielka Brytania" 2 200
+region 53 2116 "Rabat" "Neutralny" 4 200
+region 382 2074 "Oran" "Neutralny" 3 200
+region 571 2040 "Algier" "Neutralny" 5 200
+droga "Szkocja" "York"
+droga "York" "Anglia"
+droga "York" "Walia"
+droga "Szkocja" "Irlandia Pn"
+droga "Irlandia" "Irlandia Pn"
+droga "Bretania" "Normandia"
+droga "Normandia" "Belgia"
+droga "Holandia" "Belgia"
+droga "Holandia" "Hanower"
+droga "Hanower" "Hamburg"
+droga "Hamburg" "Dania"
+droga "Hamburg" "Brandenburgia"
+droga "Anglia" "Bretania"
+droga "Anglia" "Normandia"
+droga "Anglia" "Belgia"
+droga "Anglia" "Holandia"
+droga "Anglia" "Dania"
+droga "Szkocja" "Dania"
+droga "Walia" "Anglia"
+droga "Walia" "Irlandia"
+droga "Walia" "Irlandia Pn"
+droga "Bretania" "Walia"
+droga "Hanower" "Kolonia"
+droga "Brandenburgia" "Saksonia"
+droga "Brandenburgia" "Pomorze"
+droga "Hamburg" "Pomorze"
+droga "Kolonia" "Bawaria"
+droga "Hanower" "Brandenburgia"
+droga "Saksonia" "Bawaria"
+droga "Kolonia" "Brandenburgia"
+droga "Bawaria" "Czechy"
+droga "Bawaria" "Tyrol"
+droga "Kolonia" "Stuttgard"
+droga "Kolonia" "Saksonia"
+droga "Stuttgard" "Szwajcaria"
+droga "Stuttgard" "Bawaria"
+droga "Stuttgard" "Alzacja"
+droga "Austria" "Czechy"
+droga "Austria" "Bawaria"
+droga "Belgia" "Kolonia"
+droga "Belgia" "Hanower"
+droga "Czechy" "Saksonia"
+droga "Francja" "Bretania"
+droga "Francja" "Normandia"
+droga "Francja" "Belgia"
+droga "Francja" "Alzacja"
+droga "Francja" "Lyon"
+droga "Francja" "Akwitania"
+droga "Akwitania" "Bretania"
+droga "Akwitania" "Nawarra"
+droga "Akwitania" "Lyon"
+droga "Akwitania" "Tuluza"
+droga "Tuluza" "Marsylia"
+droga "Tuluza" "Barcelona"
+droga "Marsylia" "Barcelona"
+droga "Marsylia" "Korsyka"
+droga "Marsylia" "Turyn"
+droga "Marsylia" "Lyon"
+droga "Marsylia" "Baleary"
+droga "Turyn" "Korsyka"
+droga "Turyn" "Szwajcaria"
+droga "Turyn" "Mediolan"
+droga "Turyn" "Lyon"
+droga "Mediolan" "Wenecja"
+droga "Mediolan" "Szwajcaria"
+droga "Mediolan" "Tyrol"
+droga "Wenecja" "Tyrol"
+droga "Wenecja" "Austria"
+droga "Lyon" "Alzacja"
+droga "Lyon" "Szwajcaria"
+droga "Alzacja" "Szwajcaria"
+droga "Alzacja" "Kolonia"
+droga "Alzacja" "Belgia"
+droga "Korsyka" "Baleary"
+droga "Barcelona" "Baleary"
+droga "Barcelona" "Walencja"
+droga "Barcelona" "Saragossa"
+droga "Saragossa" "Walencja"
+droga "Saragossa" "Madryt"
+droga "Saragossa" "Nawarra"
+droga "Nawarra" "Madryt"
+droga "Nawarra" "Leon"
+droga "Leon" "Madryt"
+droga "Leon" "Porto"
+droga "Madryt" "Porto"
+droga "Madryt" "Sewilla"
+droga "Madryt" "Walencja"
+droga "Walencja" "Baleary"
+droga "Walencja" "Grenada"
+droga "Grenada" "Sewilla"
+droga "Sewilla" "Lizbona"
+droga "Lizbona" "Porto"
+droga "Dania" "Goteborg"
+droga "Dania" "Malmo"
+droga "Dania" "Pomorze"
+droga "Dania" "Holandia"
+droga "Malmo" "Goteborg"
+droga "Malmo" "Sztokholm"
+droga "Sztokholm" "Helsinki"
+droga "Sztokholm" "Sundsvall"
+droga "Sundsvall" "Vaasa"
+droga "Sundsvall" "Lulea"
+droga "Lulea" "Oulu"
+droga "Lulea" "Vaasa"
+droga "Lulea" "Narwik"
+droga "Narwik" "Trondheim"
+droga "Narwik" "Islandia"
+droga "Trondheim" "Islandia"
+droga "Trondheim" "Szkocja"
+droga "Trondheim" "Oslo"
+droga "Oslo" "Dania"
+droga "Oslo" "Szkocja"
+droga "Oslo" "Dania"
+droga "Oslo" "Goteborg"
+droga "Oslo" "Anglia"
+droga "Goteborg" "Sztokholm"
+droga "Helsinki" "Vaasa"
+droga "Vaasa" "Oulu"
+droga "Malmo" "Pomorze"
+droga "Malmo" "Gdansk"
+droga "Malmo" "Krolewiec"
+droga "Sztokholm" "Gdansk"
+droga "Sztokholm" "Krolewiec"
+droga "Sztokholm" "Ryga"
+droga "Sztokholm" "Tallin"
+droga "Tallin" "Helsinki"
+droga "Krolewiec" "Wilno"
+droga "Ryga" "Wilno"
+droga "Ryga" "Tallin"
+droga "Krolewiec" "Ryga"
+droga "Krolewiec" "Gdansk"
+droga "Gdansk" "Pomorze"
+droga "Murmansk" "Narwik"
+droga "Petersburg" "Tallin"
+droga "Petersburg" "Helsinki"
+droga "Pomorze" "Wielkopolska"
+droga "Brandenburgia" "Wielkopolska"
+droga "Saksonia" "Wielkopolska"
+droga "Saksonia" "Slask"
+droga "Slask" "Czechy"
+droga "Czechy" "Morawy"
+droga "Wielkopolska" "Gdansk"
+droga "Wielkopolska" "Mazowsze"
+droga "Wielkopolska" "Malopolska"
+droga "Slask" "Malopolska"
+droga "Mazowsze" "Malopolska"
+droga "Mazowsze" "Gdansk"
+droga "Mazowsze" "Krolewiec"
+droga "Mazowsze" "Wilno"
+droga "Mazowsze" "Brzesc"
+droga "Slask" "Morawy"
+droga "Malopolska" "Morawy"
+droga "Malopolska" "Slowacja"
+droga "Slowacja" "Morawy"
+droga "Malopolska" "Galicja"
+droga "Malopolska" "Brzesc"
+droga "Wielkopolska" "Slask"
+droga "Slowacja" "Wegry"
+droga "Wegry" "Morawy"
+droga "Wegry" "Austria"
+droga "Morawy" "Austria"
+droga "Wilno" "Bialorus"
+droga "Bialorus" "Brzesc"
+droga "Bialorus" "Ukraina"
+droga "Brzesc" "Galicja"
+droga "Galicja" "Ukraina"
+droga "Galicja" "Moldawia"
+droga "Moldawia" "Ukraina"
+droga "Moldawia" "Odessa"
+droga "Ukraina" "Odessa"
+droga "Ukraina" "Zaporoze"
+droga "Zaporoze" "Odessa"
+droga "Zaporoze" "Krym"
+droga "Odessa" "Krym"
+droga "Sardynia" "Korsyka"
+droga "Sardynia" "Baleary"
+droga "Sardynia" "Tunis"
+droga "Sardynia" "Palermo"
+droga "Sardynia" "Neapol"
+droga "Sardynia" "Rzym"
+droga "Rzym" "Korsyka"
+droga "Korsyka" "Florencja"
+droga "Tunis" "Malta"
+droga "Tunis" "Palermo"
+droga "Malta" "Syrakuzy"
+droga "Syrakuzy" "Palermo"
+droga "Syrakuzy" "Mesyna"
+droga "Mesyna" "Palermo"
+droga "Mesyna" "Neapol"
+droga "Palermo" "Neapol"
+droga "Mesyna" "Tarent"
+droga "Tarent" "Neapol"
+droga "Tarent" "Arta"
+droga "Tarent" "Durres"
+droga "Neapol" "Rzym"
+droga "Rzym" "Florencja"
+droga "Florencja" "Bolonia"
+droga "Florencja" "Turyn"
+droga "Florencja" "Mediolan"
+droga "Mediolan" "Bolonia"
+droga "Bolonia" "Wenecja"
+droga "Wenecja" "Chorwacja"
+droga "Chorwacja" "Bolonia"
+droga "Durres" "Saloniki"
+droga "Durres" "Arta"
+droga "Arta" "Saloniki"
+droga "Saloniki" "Ateny"
+droga "Ateny" "Arta"
+droga "Ateny" "Sparta"
+droga "Sparta" "Arta"
+droga "Sparta" "Iraklion"
+droga "Iraklion" "Ateny"
+droga "Iraklion" "Izmir"
+droga "Iraklion" "Antalaya"
+droga "Ateny" "Izmir"
+droga "Saloniki" "Izmir"
+droga "Saloniki" "Bursa"
+droga "Saloniki" "Istambul"
+droga "Saloniki" "Sofia"
+droga "Antalaya" "Bursa"
+droga "Antalaya" "Izmir"
+droga "Izmir" "Bursa"
+droga "Bursa" "Istambul"
+droga "Istambul" "Sofia"
+droga "Istambul" "Bukareszt"
+droga "Istambul" "Odessa"
+droga "Istambul" "Krym"
+droga "Sofia" "Durres"
+droga "Sofia" "Bukareszt"
+droga "Sofia" "Belgrad"
+droga "Chorwacja" "Austria"
+droga "Chorwacja" "Wegry"
+droga "Chorwacja" "Sarajewo"
+droga "Chorwacja" "Durres"
+droga "Durres" "Sarajewo"
+droga "Durres" "Belgrad"
+droga "Belgrad" "Sarajewo"
+droga "Sarajewo" "Wegry"
+droga "Wegry" "Belgrad"
+droga "Belgrad" "Transylwania"
+droga "Belgrad" "Bukareszt"
+droga "Bukareszt" "Transylwania"
+droga "Bukareszt" "Moldawia"
+droga "Moldawia" "Transylwania"
+droga "Transylwania" "Wegry"
+droga "Transylwania" "Slowacja"
+droga "Oulu" "Murmansk"
+droga "Oulu" "Pietrozawodsk"
+droga "Oulu" "Archangielsk"
+droga "Murmansk" "Archangielsk"
+droga "Archangielsk" "Pietrozawodsk"
+droga "Archangielsk" "Jaroslaw"
+droga "Pietrozawodsk" "Petersburg"
+droga "Pietrozawodsk" "Jaroslaw"
+droga "Petersburg" "Nowogrod"
+droga "Petersburg" "Jaroslaw"
+droga "Jaroslaw" "Moskwa"
+droga "Nowogrod" "Moskwa"
+droga "Polock" "Bialorus"
+droga "Polock" "Wilno"
+droga "Polock" "Ryga"
+droga "Polock" "Smolensk"
+droga "Polock" "Pskow"
+droga "Pskow" "Ryga"
+droga "Pskow" "Tallin"
+droga "Pskow" "Petersburg"
+droga "Pskow" "Nowogrod"
+droga "Pskow" "Smolensk"
+droga "Smolensk" "Moskwa"
+droga "Smolensk" "Tula"
+droga "Smolensk" "Briansk"
+droga "Smolensk" "Bialorus"
+droga "Briansk" "Ukraina"
+droga "Briansk" "Bialorus"
+droga "Briansk" "Tula"
+droga "Briansk" "Kursk"
+droga "Kursk" "Ukraina"
+droga "Kursk" "Zaporoze"
+droga "Kursk" "Woronez"
+droga "Kursk" "Tula"
+droga "Woronez" "Tula"
+droga "Tula" "Moskwa"
+droga "Lizbona" "Gibraltar"
+droga "Sewilla" "Gibraltar"
+droga "Grenada" "Gibraltar"
+droga "Gibraltar" "Rabat"
+droga "Rabat" "Lizbona"
+droga "Rabat" "Oran"
+droga "Oran" "Gibraltar"
+droga "Oran" "Walencja"
+droga "Oran" "Baleary"
+droga "Oran" "Algier"
+droga "Algier" "Tunis"
+droga "Algier" "Sardynia"
+droga "Algier" "Baleary"
+droga "Algier" "Walencja"
+droga "Oran" "Grenada"
+droga "Mesyna" "Arta"
+droga "Mesyna" "Sparta"
+droga "Syrakuzy" "Sparta"
+droga "Malta" "Iraklion"
+droga "Tuluza" "Saragossa"
+sojusz "Niemcy" "Rosja" #Jak za starych, dobrych czasow :)
