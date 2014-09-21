@@ -5,19 +5,23 @@
 #include <vector>
 #include <map>
 
+/// \brief Store and parser of configuration file.
 class Config
 {
 public:
     Config();
     ~Config();
     void loadConfig();
+    ///< Loads config file to memory.
+
     std::vector<std::string> getConfigValues(std::string option);
+    ///< @return a vector of values associated to specified option
+
     void saveValues(std::string option, std::vector<std::string> values);
-    //void refreshConfig();
+    ///< Changes/saves new values into memory
 
 private:
     void saveConfig();
-
     std::map<std::string, std::vector<std::string> > storage;
     std::string configDir;
 };
