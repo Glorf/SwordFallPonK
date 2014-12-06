@@ -12,3 +12,4 @@ If you want to clone, take care of the licences!
 All files but res directory is protected by GNU GPLv3 licence.
 You can read it here: http://www.gnu.org/licenses/gpl-3.0.txt
 It's also in LICENCE file.
+Also, dirent.h is protected by its own license - in file

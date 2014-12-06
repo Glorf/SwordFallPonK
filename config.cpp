@@ -1,5 +1,5 @@
 #include "config.h"
-#include <dirent.h>
+#include "dirent.h"
 #include <fstream>
 #include <iostream>
 

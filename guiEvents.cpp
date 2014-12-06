@@ -1,5 +1,5 @@
 #include "gui.h"
-#include <dirent.h>
+#include "dirent.h"
 #include <fstream>
 #include <sstream>
 #include "base.h"

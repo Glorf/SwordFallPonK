@@ -446,10 +446,10 @@ bool Map::checkRegionDrawInfo(int x, int y)
             int garnizonlen = engine->getTextWH(garnizon).width;
             int dochodlen = engine->getTextWH(dochod).width;
             int dyplomacjalen = engine->getTextWH(dyplomacja).width;
-            int rectanglesize = std::max(namelen, ownerlen);
-            rectanglesize = std::max(rectanglesize, garnizonlen);
-            rectanglesize = std::max(rectanglesize, dochodlen);
-            rectanglesize = std::max(rectanglesize, dyplomacjalen);
+            int rectanglesize = max(namelen, ownerlen);
+            rectanglesize = max(rectanglesize, garnizonlen);
+            rectanglesize = max(rectanglesize, dochodlen);
+            rectanglesize = max(rectanglesize, dyplomacjalen);
 
             int screenW = Base::instance()->getEngine()->getWindowSize().x;
             int screenH = Base::instance()->getEngine()->getWindowSize().y;
