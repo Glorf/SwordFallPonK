@@ -12,35 +12,22 @@
 struct sCoords
 {
     double x;
-    ///< Part X of coordinates struct
-
     double y;
-    ///< Part y of coordinates struct
 };
 
 struct sWH
 {
     double width;
-    ///< The width of screen/object/anything
-
     double height;
-    ///< The height of screen/object/anything
 };
 
 struct sFont
 {
     std::string name;
-    ///< Font name
-
     std::string dir;
-    ///< Relative path to font file
-
     ALLEGRO_FONT *ptr;
-    ///< Pointer to real font instance
 };
 
-/// \brief Hides some of the bare allegro procedures, makes using its functions easier.
-/// Also stores pointers to some of allegro classes instances
 class Engine
 {
 public:
